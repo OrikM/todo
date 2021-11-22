@@ -1,0 +1,9 @@
+.heading {
+    display: flex;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #ffffff;
+    justify-content: space-around;
+
+    text-shadow: 0 0 5px #000000, 3px -1px 5px #000000;
+}
